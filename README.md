@@ -5,10 +5,15 @@ LW的开源模型库
 
 LW的一些个人主页，欢迎关注：
 https://space.bilibili.com/88408567
+
 小红书号：5333982266
+
 https://www.youtube.com/@LaowuStudio
+
 https://www.instagram.com/laowustudio/
+
 https://www.printables.com/@WuOscar_1144345
+
 https://makerworld.com/zh/@LaowuStudio
 
 遵循GPL3.0许可证
